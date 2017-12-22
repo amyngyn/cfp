@@ -1,0 +1,2 @@
+# Status
+I didn't actually apply to this one! I missed the deadline for this conference, but [applied to TechSummit Amsterdam](https://github.com/amyngyn/cfp/blob/master/2017/06.%20(A)%20TechSummit%20Amsterdam%202017%20-%20UX%20Design.md), which was happening later in the year. The organizers of the TechSummit conference series reached out to me to fill in a last-minute cancellation for TechSummit Berlin.
